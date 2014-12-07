@@ -47,4 +47,5 @@ with(filtered.data, plot(x = datetime,
                          y = Global_reactive_power,
                          type = "l"))
 
+dev.off()
 
